@@ -1,0 +1,1219 @@
+fileFormatVersion: 2
+guid: 1de05bade72793843ab6e13d5141d4dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2514729133156226293
+    second: 0AB
+  - first:
+      213: 1281885908644641203
+    second: 1A
+  - first:
+      213: -6071007146541356115
+    second: 1B
+  - first:
+      213: 5514231996582620023
+    second: 2A
+  - first:
+      213: -6494850777234211087
+    second: 2B
+  - first:
+      213: 328545440148157070
+    second: 3A
+  - first:
+      213: -6480371653205773803
+    second: 3B
+  - first:
+      213: -7183466636131545278
+    second: 4A
+  - first:
+      213: 337001067323890655
+    second: 4B
+  - first:
+      213: 5878815760847130107
+    second: 5A
+  - first:
+      213: -2067349931085137231
+    second: 5B
+  - first:
+      213: 7214605909978687527
+    second: 6A
+  - first:
+      213: -3908738712504420765
+    second: 6B
+  - first:
+      213: -91663161869228725
+    second: 7A
+  - first:
+      213: 7742182905685611031
+    second: 7B
+  - first:
+      213: -6086399149239348945
+    second: 8A
+  - first:
+      213: -229138439908439986
+    second: 8B
+  - first:
+      213: -4324152090833699784
+    second: 9A
+  - first:
+      213: -1045116344019945321
+    second: 9B
+  - first:
+      213: 3700219077927456711
+    second: 10A
+  - first:
+      213: 2136028708162647344
+    second: 10B
+  - first:
+      213: 6264626455197283173
+    second: Hearts-Bridge-Money_21
+  - first:
+      213: -1254109471732390847
+    second: Hearts-Bridge-Money_22
+  - first:
+      213: 5997473504329956595
+    second: Hearts-Bridge-Money_23
+  - first:
+      213: 1027334683122924194
+    second: Hearts-Bridge-Money_24
+  - first:
+      213: -8113109239059020457
+    second: Hearts-Bridge-Money_25
+  - first:
+      213: 5290164331092080001
+    second: Hearts-Bridge-Money_26
+  - first:
+      213: -5884766429605358230
+    second: Hearts-Bridge-Money_27
+  - first:
+      213: -7377003266565049688
+    second: Hearts-Bridge-Money_28
+  - first:
+      213: 1895398170195667013
+    second: Hearts-Bridge-Money_29
+  - first:
+      213: -229466268386253930
+    second: Hearts-Bridge-Money_30
+  - first:
+      213: -91965719946769465
+    second: Hearts-Bridge-Money_31
+  - first:
+      213: -5074281917573893896
+    second: Hearts-Bridge-Money_32
+  - first:
+      213: -5934384767672870834
+    second: Hearts-Bridge-Money_33
+  - first:
+      213: 731383967723287600
+    second: Hearts-Bridge-Money_34
+  - first:
+      213: -3876647847210208593
+    second: Hearts-Bridge-Money_35
+  - first:
+      213: 3757712335085379584
+    second: Hearts-Bridge-Money_36
+  - first:
+      213: 7485770204344919424
+    second: Hearts-Bridge-Money_37
+  - first:
+      213: -3803033296520412713
+    second: Hearts-Bridge-Money_38
+  - first:
+      213: 4824381995150046545
+    second: Hearts-Bridge-Money_39
+  - first:
+      213: -4343349625737760184
+    second: Hearts-Bridge-Money_40
+  - first:
+      213: -6220137636770109764
+    second: Hearts-Bridge-Money_41
+  - first:
+      213: -3540532038009178296
+    second: Hearts-Bridge-Money_42
+  - first:
+      213: -8224763962059318971
+    second: Hearts-Bridge-Money_43
+  - first:
+      213: 3032408012083779358
+    second: Hearts-Bridge-Money_44
+  - first:
+      213: 3015337217573326381
+    second: Hearts-Bridge-Money_45
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 0AB
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1197
+        width: 198
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a8137568b3b8846a46335132c181b3
+      internalID: -2514729133156226293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1A
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1197
+        width: 198
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a706254dc9321cb428eb34d5f94db78b
+      internalID: 1281885908644641203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1B
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1197
+        width: 198
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3339e4eee9073014fb1aa1e16a044f80
+      internalID: -6071007146541356115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2A
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1197
+        width: 198
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9577d3aaa886bed45950387eb32d05bf
+      internalID: 5514231996582620023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2B
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1197
+        width: 198
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1507bc3052165314884dbdb04ff71383
+      internalID: -6494850777234211087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3A
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1197
+        width: 198
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa0af0f60f7dea4a8778d67f8542d63
+      internalID: 328545440148157070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3B
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1026
+        width: 198
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26584695a6f801141b51c66c5078bc2f
+      internalID: -6480371653205773803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4A
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1026
+        width: 198
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d84ddb3240c784f9047ab77abfabd2
+      internalID: -7183466636131545278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4B
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1026
+        width: 198
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818df3d0e845392488033fd84cef5ee0
+      internalID: 337001067323890655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5A
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1026
+        width: 198
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceacd6b8a8ae1d54598448b7830ac47b
+      internalID: 5878815760847130107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5B
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1026
+        width: 198
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f26b3450dd9f04d8600c7e0027a828
+      internalID: -2067349931085137231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6A
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1026
+        width: 198
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b880aec94753b409ce8ebd23a018f9
+      internalID: 7214605909978687527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6B
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 855
+        width: 198
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b629d9191f5d674cb6600bf948d3dcf
+      internalID: -3908738712504420765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7A
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 855
+        width: 198
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728ce15f451bdd549b8b8211e2af2cfe
+      internalID: -91663161869228725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7B
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 855
+        width: 198
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5064df488ab5ff441989e023a1a7f67f
+      internalID: 7742182905685611031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8A
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 855
+        width: 198
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61abde165ba0002488c8890328d742bd
+      internalID: -6086399149239348945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8B
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 855
+        width: 198
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29d8c94570112c4d8e1cada736d264f
+      internalID: -229138439908439986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9A
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 855
+        width: 198
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64102102a0bc6ea4a96c1074c19b07be
+      internalID: -4324152090833699784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9B
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 684
+        width: 198
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6418b8d64e4ce0242bb4cd08a39347f7
+      internalID: -1045116344019945321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10A
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 684
+        width: 198
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5718312274f6046997fd714b44fb45
+      internalID: 3700219077927456711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10B
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 684
+        width: 198
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bb33cffb67a58498c696a84f793885
+      internalID: 2136028708162647344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts-Bridge-Money_21
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 684
+        width: 198
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a402b50daf2296479253027ea5a6f87
+      internalID: 6264626455197283173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts-Bridge-Money_22
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 684
+        width: 198
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841e5bd8c0bd1764a8fa62235516f7d2
+      internalID: -1254109471732390847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts-Bridge-Money_23
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 684
+        width: 198
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ae5c7f417315a448b9eaadf836b9ac
+      internalID: 5997473504329956595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts-Bridge-Money_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 513
+        width: 198
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63da261b030946d41bdc209721cd7e93
+      internalID: 1027334683122924194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts-Bridge-Money_25
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 513
+        width: 198
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68344d9e29fd2e4aa2a73fa949cf588
+      internalID: -8113109239059020457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts-Bridge-Money_26
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 513
+        width: 198
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ba5840e3535f84ca6ce213420cd8ce
+      internalID: 5290164331092080001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts-Bridge-Money_27
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 513
+        width: 198
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43fa7730d18f9444a93f05057980b2f
+      internalID: -5884766429605358230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts-Bridge-Money_28
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 513
+        width: 198
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24b726813683b545b4f8a78c8ba4f36
+      internalID: -7377003266565049688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts-Bridge-Money_29
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 513
+        width: 198
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37cf0636aa950d24cb903d234b042163
+      internalID: 1895398170195667013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts-Bridge-Money_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342
+        width: 198
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901a8e781c44915418c955c51e751ee6
+      internalID: -229466268386253930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts-Bridge-Money_31
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 342
+        width: 198
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea81ee09bfb40c44afa2581f05d0ca6
+      internalID: -91965719946769465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts-Bridge-Money_32
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 342
+        width: 198
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa70eeae7e28b594f82a172f7189733c
+      internalID: -5074281917573893896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts-Bridge-Money_33
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 342
+        width: 198
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f9b3282a6c4b045bd046f1c4610fc6
+      internalID: -5934384767672870834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts-Bridge-Money_34
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 342
+        width: 198
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3323415d8ffa5734280d00a4c728254d
+      internalID: 731383967723287600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts-Bridge-Money_35
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 342
+        width: 198
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ff1943bbe3b4744b1b11d2ab9c38eb
+      internalID: -3876647847210208593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts-Bridge-Money_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171
+        width: 198
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80babdf995bdca45bb50471694b7b7a
+      internalID: 3757712335085379584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts-Bridge-Money_37
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 171
+        width: 198
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f5f8e8f5ede81458676f16dc21f4d6
+      internalID: 7485770204344919424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts-Bridge-Money_38
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 171
+        width: 198
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81147660d8deda41be62d16df79be73
+      internalID: -3803033296520412713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts-Bridge-Money_39
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 171
+        width: 198
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59afd977a89ffa94b8466be40a135d4d
+      internalID: 4824381995150046545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts-Bridge-Money_40
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 171
+        width: 198
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52eb8b2730c6c944086bfaa3cc8fe02c
+      internalID: -4343349625737760184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts-Bridge-Money_41
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 171
+        width: 198
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b13a19c22cae8c40becf48d7339f92d
+      internalID: -6220137636770109764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts-Bridge-Money_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 198
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e8476b09c2ce9478ec5d8cdaf205e6
+      internalID: -3540532038009178296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts-Bridge-Money_43
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 198
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875c03228081e6b42ab8fa04c5ae9a80
+      internalID: -8224763962059318971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts-Bridge-Money_44
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 0
+        width: 198
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d219aa1c728d048a6a1e0293bdf688
+      internalID: 3032408012083779358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts-Bridge-Money_45
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 0
+        width: 198
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3d4888cadc25d4b9137d5379ff6cc9
+      internalID: 3015337217573326381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

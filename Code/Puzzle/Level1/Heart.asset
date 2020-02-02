@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fce846fde3a298c478d3900f0bf2622e, type: 3}
+  m_Name: Heart
+  m_EditorClassIdentifier: 
+  LeftSide:
+  - {fileID: 11400000, guid: f3ebd370b63df534189028b802f2186a, type: 2}
+  - {fileID: 11400000, guid: d6b42a19281d12a4393c017347d5978c, type: 2}
+  - {fileID: 11400000, guid: 0ca26530ae2e18d4083d0db35070b2bd, type: 2}
+  - {fileID: 11400000, guid: d13b901331bd5074091cfee5b8adf696, type: 2}
+  RightSide:
+  - {fileID: 11400000, guid: b99a4b37727ea5a4b9f2fa689e5e673e, type: 2}
+  - {fileID: 11400000, guid: 2afb8a334ce0194478dc3ff2b524f751, type: 2}
+  - {fileID: 11400000, guid: 0f0c4a7a9121fc548a51f4736bebcbaa, type: 2}
+  - {fileID: 11400000, guid: 6b3a0c38a605d8c488b777550689b0cf, type: 2}
+  PanicTime: 10
+  RoundTime: 30
